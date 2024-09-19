@@ -1,0 +1,4 @@
+Total rows to process 10000
+In progress 3188
+Resolved 3446
+Waiting 3366
